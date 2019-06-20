@@ -5,4 +5,5 @@ Includes functionalities for creating customers and accounts so the user can wit
 
 ### Run instructions
 Using Visual Studio: Run in release mode.
+
 Using executable: Run Banking_Program.exe in Banking_Program/bin/release/Banking_Program.exe
