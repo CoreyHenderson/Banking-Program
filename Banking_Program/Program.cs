@@ -2,8 +2,7 @@
 ////    An interactive C# program that manages the use of customers and accounts  ////
 ////    for a bank which demonstrates the use of abstraction, encapsulation,      ////
 ////    inheritance and polymorphism. Written by Corey Henderson.                 ////
-////        Name: Corey Henderson                                                 ////
-////        ID: 215131357                                                         ////
+////                                                                              ////
 ////        Class: Program                                                        ////
 //////////////////////////////////////////////////////////////////////////////////////
 
@@ -142,7 +141,7 @@ namespace Banking_Program
         {
             // Header
             Console.WriteLine(formattingLine);
-            Console.WriteLine("\tOOD Assignment 2 - Interactive Banking Program\t\t\t\t\t\t\t\t\tDesigned By Corey Henderson");
+            Console.WriteLine("\tInteractive Banking Program\t\t\t\t\t\t\t\t\tDesigned By Corey Henderson");
             Console.WriteLine(formattingLine);
 
             //Display Main menu

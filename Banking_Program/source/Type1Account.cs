@@ -2,8 +2,7 @@
 ////    An interactive C# program that manages the use of customers and accounts  ////
 ////    for a bank which demonstrates the use of abstraction, encapsulation,      ////
 ////    inheritance and polymorphism. Written by Corey Henderson.                 ////
-////        Name: Corey Henderson                                                 ////
-////        ID: 215131357                                                         ////
+////                                                                              ////
 ////        Class: Type1Account                                                   ////
 //////////////////////////////////////////////////////////////////////////////////////
 

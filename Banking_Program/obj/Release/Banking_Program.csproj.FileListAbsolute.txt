@@ -5,3 +5,10 @@ C:\Users\Corey\source\repos\Banking_Program\Banking_Program\obj\Release\Banking_
 C:\Users\Corey\source\repos\Banking_Program\Banking_Program\obj\Release\Banking_Program.csproj.CoreCompileInputs.cache
 C:\Users\Corey\source\repos\Banking_Program\Banking_Program\obj\Release\Banking_Program.exe
 C:\Users\Corey\source\repos\Banking_Program\Banking_Program\obj\Release\Banking_Program.pdb
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\bin\Release\Banking_Program.exe.config
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\bin\Release\Banking_Program.exe
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\bin\Release\Banking_Program.pdb
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\obj\Release\Banking_Program.csprojAssemblyReference.cache
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\obj\Release\Banking_Program.csproj.CoreCompileInputs.cache
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\obj\Release\Banking_Program.exe
+C:\Users\Corey\source\repos\Banking-Program\Banking_Program\obj\Release\Banking_Program.pdb
