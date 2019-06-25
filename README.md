@@ -3,6 +3,8 @@ Console-based C# application that acts as a platform for managing customers and 
 
 Includes functionalities for creating customers and accounts so the user can withdraw, deposit, transfer between accounts, set monthly deposit and calculate interest rates.
 
+<img src="https://i.imgur.com/ZDQeAS5.png">
+
 ### Run instructions
 Using Visual Studio: Run in release mode.
 
